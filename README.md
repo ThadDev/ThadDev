@@ -8,7 +8,7 @@ Currently focused on **React, Django, and AI-powered projects** for my portfolio
 ---
 
 ## 🌟 About Me
-- 🔭 Currently building: [Dev mentor](https://github.com/jets-com/dev-mentor-app)  
+- 🔭 Currently building: [Dev mentor](https://github.com=ThadDev/dev-mentor-app)  
 - 📚 Learning: Python, Django, and AI concepts   
 - ⚡ Fun fact: I also play piano 🎹  
 - Ⓜ️ send a message : thaddeusugwu2007@gmail.com
@@ -26,15 +26,15 @@ Currently focused on **React, Django, and AI-powered projects** for my portfolio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jets-com&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800?cache_seconds=1800" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThadDev&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800?cache_seconds=1800" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jets-com&theme=radical&hide_border=true&cache_seconds=1800?cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThadDev&theme=radical&hide_border=true&cache_seconds=1800?cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jets-com&layout=compact&theme=radical&hide_border=true&cache_seconds=180?cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThadDev&layout=compact&theme=radical&hide_border=true&cache_seconds=180?cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---

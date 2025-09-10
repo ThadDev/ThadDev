@@ -26,7 +26,7 @@ Currently focused on **React, Django, and AI-powered projects** for my portfolio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jets-com&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jets-com&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800?cache_seconds=1800" alt="GitHub stats" />
 </p>
 
 <p align="center">

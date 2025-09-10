@@ -52,7 +52,7 @@ Currently focused on **React, Django, and AI-powered projects** for my portfolio
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" alt="Twitter" />
   </a>
   <a href="mailto:thaddeusugwu2007@gmail.com" target="_blank" rel="noopener">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Email" style="border-radius:50%;background:#fff;padding:8px;" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email" style="border-radius:50%;background:#fff;padding:8px;" />
   </a>
 </p>
 

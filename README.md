@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Thaddeus Ugwu(ThadDev)
 
-💻 **Front-End Developer | Python/Django Enthusiast | Future AI Founder**
+💻 **Front-End Developer | Python/Django Enthusiast | building ThadDev Studio**
 
 🚀 Passionate about building real-world apps that blend **beautiful UI** with **powerful AI backends**.  
 Currently focused on **React, Django, and AI-powered projects** for my portfolio.  
@@ -11,34 +11,57 @@ Currently focused on **React, Django, and AI-powered projects** for my portfolio
 - 🔭 Currently building: [Dev mentor](https://github.com/jets-com/dev-mentor-app)  
 - 📚 Learning: Python, Django, and AI concepts   
 - ⚡ Fun fact: I also play piano 🎹  
-
+- Ⓜ️ send a message : thaddeusugwu2007@gmail.com
 ---
 
 ## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,django,git,github,vscode" />
+</p>
 
 ---
+
 
 ## 📊 GitHub Stats
-![Jets-com's GitHub stats](https://github-readme-stats.vercel.app/api?username=jets-com&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jets-com&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=jets-com&theme=radical&hide_border=true)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jets-com&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jets-com&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jets-com&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/thaddeus-ugwu-33880534b)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=purple)](https://x.com/Thhaddeus?t=puKDERjOSSz29ivP1y6KOw&s=09)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=purple)](https://thaddeus-ugwu-portfolio.vercel.app)
+## 🌐 Connect with Me  
 
-send a message : thaddeusugwu2007@gmail.com
+<p align="center">
+  <a href="https://github.com/ThadDevt="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/thaddeus-ugwu-33880534b" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Thhaddeus?t=puKDERjOSSz29ivP1y6KOw&s=09" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" alt="Twitter" />
+  </a>
+  <a href="mailto:thaddeusugwu2007@gmail.com" target="_blank" rel="noopener">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Email" style="border-radius:50%;background:#fff;padding:8px;" />
+  </a>
+</p>
+
 ---
 
 ✨ *“Code, Create, and Build the Future with AI.”*  
+
+
+
+
+
+

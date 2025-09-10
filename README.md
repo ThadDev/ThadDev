@@ -30,11 +30,11 @@ Currently focused on **React, Django, and AI-powered projects** for my portfolio
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jets-com&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jets-com&theme=radical&hide_border=true&cache_seconds=1800?cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jets-com&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jets-com&layout=compact&theme=radical&hide_border=true&cache_seconds=180?cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---

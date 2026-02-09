@@ -9,8 +9,8 @@ I build **production‑ready applications** with beautiful UIs and clean, scalab
 ---
 
 ## 🌟 About Me
-- 🔭 **Currently building:** Dev Mentor App  
-  👉 https://github.com/ThadDev/dev-mentor-app
+- 🔭 **Currently building:** ThadDev Studios  
+  👉 https://thaddevstudios.com
 - 📚 **Learning / Exploring:** AI integration + backend automation
 - 🎹 **Fun fact:** I also play piano 🎵
 - 📬 **Connect:** thaddeusugwu2007@gmail.com
